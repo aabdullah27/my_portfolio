@@ -77,7 +77,7 @@ export function About() {
             About Me
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Crafting AI Solutions &{" "}
+            Building AI-Driven Solutions &{" "}
             <motion.span 
               className="text-primary relative inline-block"
               initial={{ backgroundSize: "0% 3px" }}
@@ -89,7 +89,7 @@ export function About() {
                 backgroundRepeat: "no-repeat"
               }}
             >
-              Cloud Architecture
+              Scalable Architectures
             </motion.span>
           </h2>
           <motion.p 
@@ -99,8 +99,7 @@ export function About() {
             transition={{ delay: 0.3, duration: 0.7 }}
             viewport={{ once: true }}
           >
-            Senior Data Scientist and AWS Solutions Architect specializing in
-            AI/ML innovations and scalable cloud architecture
+            AI Engineer and Backend Architect specializing in AI/ML solutions, RAG pipelines, and AI Agents with scalable cloud architectures
           </motion.p>
         </motion.div>
 
@@ -135,11 +134,7 @@ export function About() {
                 transition={{ delay: 0.2, duration: 0.5 }}
                 viewport={{ once: true }}
               >
-                As a Senior Data Scientist and Cloud Solutions Architect with 6
-                AWS certifications, I specialize in developing cutting-edge AI/ML
-                solutions and GenAI innovations. My expertise spans cloud
-                architecture, machine learning, and building scalable AI solutions
-                that drive business value.
+                As an AI Engineer and Backend Architect, I specialize in developing AI/ML solutions, RAG pipelines, and AI Agents, seamlessly integrating them with scalable cloud architectures. My expertise lies in building robust backend systems, optimizing AI deployments, and crafting intelligent solutions that drive real-world impact.
               </motion.p>
               
               {/* Achievements */}
@@ -151,16 +146,16 @@ export function About() {
                 className="mt-6 space-y-3"
               >
                 <h4 className="text-sm font-medium text-primary flex items-center gap-2">
-                  <Award className="h-4 w-4" /> Key Achievements
+                  <Award className="h-4 w-4" /> Key Expertise
                 </h4>
                 <ul className="space-y-2">
                   <li className="flex items-start gap-2">
                     <Zap className="h-4 w-4 text-primary mt-1 flex-shrink-0" />
-                    <span className="text-sm text-muted-foreground">Led development of AI-powered analytics platform resulting in 40% efficiency improvement</span>
+                    <span className="text-sm text-muted-foreground">Developing AI-driven solutions that integrate LLMs, RAG pipelines, and AI Agents into scalable systems</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <Zap className="h-4 w-4 text-primary mt-1 flex-shrink-0" />
-                    <span className="text-sm text-muted-foreground">Architected cloud solutions that reduced infrastructure costs by 35%</span>
+                    <span className="text-sm text-muted-foreground">Building robust backend architectures with FastAPI, Node.js, and cloud technologies</span>
                   </li>
                 </ul>
               </motion.div>

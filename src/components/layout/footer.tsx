@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { Github, Linkedin, Twitter, Mail, ArrowUpRight, Heart } from "lucide-react";
+import { Github, Linkedin, Instagram, Mail, ArrowUpRight, Heart } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 export function Footer() {
@@ -11,22 +11,22 @@ export function Footer() {
   const socialLinks = [
     {
       name: "GitHub",
-      href: "https://github.com/bjornmelin",
+      href: "https://github.com/aabdullah27",
       icon: Github,
     },
     {
       name: "LinkedIn",
-      href: "https://linkedin.com/in/bjorn-melin",
+      href: "https://www.linkedin.com/in/muhammad-abdullah-py-dev/",
       icon: Linkedin,
     },
     {
-      name: "Twitter",
-      href: "https://twitter.com/bjornmelin",
-      icon: Twitter,
+      name: "Instagram",
+      href: "https://www.instagram.com/abdllah._.77/",
+      icon: Instagram,
     },
     {
       name: "Email",
-      href: "mailto:bjornmelin16@gmail.com",
+      href: "mailto:my.abdullah.nauman@gmail.com",
       icon: Mail,
     },
   ];
@@ -35,14 +35,7 @@ export function Footer() {
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
     { name: "Projects", href: "/projects" },
-    { name: "Blog", href: "/blog" },
     { name: "Contact", href: "/contact" },
-  ];
-
-  const resources = [
-    { name: "Resume", href: "/resume.pdf" },
-    { name: "Case Studies", href: "/case-studies" },
-    { name: "Testimonials", href: "/testimonials" },
   ];
 
   // Animation variants
@@ -78,7 +71,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         {/* Main Footer Content */}
         <motion.div 
-          className="py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10"
+          className="py-12 grid grid-cols-1 md:grid-cols-2 gap-10"
           variants={containerVariants}
           initial="hidden"
           whileInView="visible"
@@ -89,11 +82,11 @@ export function Footer() {
             <div>
               <Link href="/" className="flex items-center">
                 <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary/70">
-                  Bjorn Melin
+                  Muhammad Abdullah
                 </span>
               </Link>
               <p className="mt-4 text-muted-foreground text-sm max-w-xs">
-                Senior Data Scientist and AWS Solutions Architect specializing in AI/ML innovations and cloud architecture.
+                AI Engineer and Backend Architect specializing in AI/ML solutions, RAG pipelines, and AI Agents with scalable cloud architectures.
               </p>
             </div>
             
@@ -138,44 +131,6 @@ export function Footer() {
               ))}
             </ul>
           </motion.div>
-
-          {/* Resources */}
-          <motion.div variants={itemVariants} className="space-y-6">
-            <h3 className="text-lg font-semibold">Resources</h3>
-            <ul className="space-y-3">
-              {resources.map((resource) => (
-                <li key={resource.name}>
-                  <Link 
-                    href={resource.href}
-                    className="text-muted-foreground hover:text-foreground transition-colors flex items-center group"
-                  >
-                    <span className="group-hover:underline underline-offset-4">
-                      {resource.name}
-                    </span>
-                    <ArrowUpRight className="h-3 w-3 ml-1 opacity-0 group-hover:opacity-100 transition-opacity" />
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </motion.div>
-
-          {/* Newsletter Signup */}
-          <motion.div variants={itemVariants} className="space-y-6">
-            <h3 className="text-lg font-semibold">Stay Updated</h3>
-            <p className="text-sm text-muted-foreground">
-              Subscribe to my newsletter for the latest updates on AI, cloud architecture, and tech trends.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-2">
-              <input
-                type="email"
-                placeholder="Your email"
-                className="px-4 py-2 bg-card border border-border rounded-md focus:outline-none focus:ring-2 focus:ring-primary/50 text-sm"
-              />
-              <Button size="sm" className="whitespace-nowrap">
-                Subscribe
-              </Button>
-            </div>
-          </motion.div>
         </motion.div>
 
         {/* Bottom Footer */}
@@ -187,7 +142,7 @@ export function Footer() {
           viewport={{ once: true }}
         >
           <p>
-            &copy; {currentYear} Bjorn Melin. All rights reserved.
+            &copy; {currentYear} Muhammad Abdullah. All rights reserved.
           </p>
           
           <motion.p 

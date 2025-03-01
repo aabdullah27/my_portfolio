@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Github, Linkedin, Twitter } from "lucide-react";
+import { ArrowRight, Github, Linkedin, Instagram } from "lucide-react";
 
 export function Hero() {
   return (
@@ -24,7 +24,7 @@ export function Hero() {
             >
               <h2 className="text-sm md:text-base font-medium text-primary mb-2">Hello, I'm</h2>
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-                Bjorn Melin
+                Muhammad Abdullah
               </h1>
               <div className="h-1 w-20 bg-primary my-6"></div>
             </motion.div>
@@ -35,7 +35,7 @@ export function Hero() {
               transition={{ delay: 0.4, duration: 0.5 }}
               className="text-lg md:text-xl text-muted-foreground max-w-xl"
             >
-              Senior Data Scientist | Cloud Solutions Architect | 6x AWS Certified | AI/ML & GenAI Innovator
+              AI Engineer | Backend Architect | AI/DL & GenAI Innovator | RAG & Cloud Solutions
             </motion.p>
             
             <motion.div
@@ -65,17 +65,17 @@ export function Hero() {
               transition={{ delay: 0.8, duration: 0.5 }}
               className="flex items-center space-x-4 mt-6"
             >
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/aabdullah27" target="_blank" rel="noopener noreferrer" 
                 className="p-2 rounded-full border border-border/50 text-muted-foreground hover:text-primary hover:border-primary transition-colors">
                 <Github size={20} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.linkedin.com/in/muhammad-abdullah-py-dev/" target="_blank" rel="noopener noreferrer"
                 className="p-2 rounded-full border border-border/50 text-muted-foreground hover:text-primary hover:border-primary transition-colors">
                 <Linkedin size={20} />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.instagram.com/abdllah._.77/" target="_blank" rel="noopener noreferrer"
                 className="p-2 rounded-full border border-border/50 text-muted-foreground hover:text-primary hover:border-primary transition-colors">
-                <Twitter size={20} />
+                <Instagram size={20} />
               </a>
             </motion.div>
           </motion.div>
@@ -90,7 +90,7 @@ export function Hero() {
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/10 shadow-2xl">
               <Image
                 src="/headshot/headshot-2024.jpg"
-                alt="Bjorn Melin"
+                alt="Muhammad Abdullah"
                 fill
                 sizes="(max-width: 768px) 256px, 320px"
                 priority

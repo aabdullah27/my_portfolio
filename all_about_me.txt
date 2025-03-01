@@ -1,0 +1,271 @@
+Home Page:
+Hello I'm Muhammad Abdullah.
+AI Engineer | Backend Architect | AI/DL & GenAI Innovator | RAG & Cloud Solutions | Software + AI-Agent Integration
+
+github: https://github.com/aabdullah27
+linkedin: https://www.linkedin.com/in/muhammad-abdullah-py-dev/
+instagram: https://www.instagram.com/abdllah._.77/
+email: my.abdullah.nauman@gmail.com
+
+Building AI-Driven Solutions & Scalable Software Architectures
+AI Engineer | Backend & Cloud Architect | Specializing in AI/DL, RAG, AI Agents, and Scalable AI Deployments
+
+
+As an AI Engineer and Backend Architect, I specialize in developing AI/ML solutions, RAG pipelines, and AI Agents, seamlessly integrating them with scalable cloud architectures. My expertise lies in building robust backend systems, optimizing AI deployments, and crafting intelligent solutions that drive real-world impact.
+
+AI Agents
+Generative AI
+Retrieval Augmented Generation (RAG)
+Deep Learning
+Reinforcement Learning
+Multimodal LLMs
+Prompt Engineering
+LLM Fine-Tuning
+
+
+Cloud Architecture & MLOps
+AWS
+Docker/Kubernetes
+Vector DBs
+CI/CD
+Docker
+Git
+Linux
+
+Programming
+Python
+LangChain
+Llama Index
+Microservices
+Fast API
+Django
+Flask
+Node.js
+Javascript
+TypeScript
+TensorFlow
+PyTorch
+Hugging Face Transformers
+Scikit-Learn
+CUDA
+Pandas
+NumPy
+
+
+Data Science
+Data Analysis
+Data Visualization
+Data preprocessing
+Data cleaning
+Data modeling
+Web Scraping
+Automation
+
+Featured Projects:
+
+(Summarize this in one meaningful paragraph)
+Next-Gen AI Multimodal Chat
+    🎥 Multimodal Real-Time App with Gemini 2.0 & Next.js
+    Developed a real-time multimodal application using Google's Gemini 2.0 API and Next.js, offering seamless audio, video, and screen-sharing interactions with advanced AI processing. While Google AI Studio provides similar features, this project was built from scratch to gain a deeper understanding of architectural design, explore customization opportunities, and refine problem-solving skills through hands-on implementation.
+
+    🔍 Key Skills & Technologies:
+    🔷 Frontend: Next.js 14 (App Router & Server Components), Tailwind CSS, Shadcn/ui
+    🔷 Real-Time Communication: WebSocket, WebRTC, Web Audio API
+    🔷 AI Integration: Gemini Pro Vision & Gemini Pro (streaming support)
+    🔷 UI & UX: Framer Motion for animations, responsive design
+    🔷 Security: Client-side API key management with validation
+    🔷 Performance: Adaptive media quality, lazy loading, optimized asset delivery with Next.js
+    🔷 Development: TypeScript, React hooks & context for efficient state management
+
+    This project demonstrates a blend of technical expertise and architectural thinking, showcasing the ability to build scalable, real-time AI-driven applications with a human-centric approach and modern web technologies.
+
+Early Age Devlopment Backend:
+    EAD - AI Kids Incubator: A Project of Technogroup.ai
+    Empower your students with AI-driven innovation by integrating hands-on AI projects into your school's IT curriculum. Our EAD Kids Incubator partners with schools to enhance IT lessons with real-world AI applications, STEM innovation, and future-ready skills.
+    Created the Backend with integrated RAG pipiline based on microservices architecture
+
+(Summarize this in one meaningful paragraph)
+Student Score Exploratory Data Analysis with Python:
+    🔍 Project Title: Student Scores Data Analysis
+    Description:
+    I am pleased to share that I have recently completed a comprehensive data analysis project centered around student scores. Utilizing Python and a range of powerful libraries, I performed extensive data cleaning, analysis, and visualization to uncover valuable insights.
+    Key Highlights:
+    1. 📊 Data Preparation: Efficiently cleaned and preprocessed the student scores dataset, addressing missing values and ensuring data integrity.
+    2. 🔎 Exploratory Data Analysis (EDA): Conducted in-depth analysis to identify patterns, trends, and correlations within the data, providing a solid foundation for further exploration.
+    3. 📈 Visualization: Employed Matplotlib and Seaborn to create visually appealing and informative charts, making complex data more accessible and understandable.
+    4. 📝 Analysis and Conclusions: Derived actionable insights from the analysis, highlighting key factors impacting student performance and offering data-driven recommendations.
+
+    This project has significantly enhanced my data analysis skills and deepened my enthusiasm for continuous learning and project development. I am keen to embrace new challenges and apply my expertise in future data analysis endeavors.
+
+    Skills Demonstrated:
+    1. Data Cleaning & Preparation
+    2. Exploratory Data Analysis (EDA)
+    3. Data Visualization (Matplotlib, Seaborn)
+    4. Statistical Analysis & Interpretation
+
+    I am always open to discussing data analysis, Python, and potential collaboration opportunities. Feel free to connect!
+
+RATTA AI:
+    Ratta AI August 2024 – Ongoing
+    Tools: Backend Development, RAG, AI Agents
+    A startup aiming to transition Pakistani students from rote learning (Ratta) to concept
+    understanding, offering personalized learning paths and AI-driven exam prep.
+    Current Status & Milestones:
+    o The prototype is complete, and we are now focused on release and deployment.
+    o We have developed the website flow along with AI chat and MCQ generation
+    features.
+    o We are actively refining and optimizing the platform for a seamless user experience
+    and efficient performance.
+
+About Me:
+
+(summarize this into one meaningful paragraph)
+Professional Summary:
+    Bridging the gap between AI research and real-world applications, I specialize in developing AI-driven solutions that integrate LLMs, RAG pipelines, and AI Agents into scalable and production-ready systems. My expertise extends beyond model implementation—I focus on deploying AI at scale, optimizing workflows, and ensuring that intelligent automation delivers tangible business value.
+
+    At my current role, I have gained hands-on experience in deploying and optimizing RAG pipelines, making AI systems more efficient and scalable. I have worked extensively with backend architectures, integrating AI models into high-performance APIs that generate intelligent responses using optimized techniques. My role also involves AI consultation and research, where I provide strategic insights that enhance AI-driven decision-making and innovation.
+
+    Beyond AI, I have expanded my expertise in backend development and cloud deployments, working with technologies I had limited experience with before. From building robust APIs with Node.js and Express to implementing scalable database solutions and cloud-based architectures, I have strengthened my ability to merge AI and software engineering seamlessly.
+
+    My journey has also sharpened my ability to collaborate with teams, manage deployments, and work in a structured development workflow using Git and Docker. Understanding how AI and backend systems intertwine has given me a broader perspective on building scalable, intelligent applications that go beyond research and into real-world impact.
+
+Skills & Expertise:
+
+    Use the above ones and add some backend skills in it to
+
+Work Experience:
+
+(summarize this into one meaningful paragraph)
+Techno Group Early Age Development Incubator (EAD):
+start date: 1st januray 2025
+    Currently working on building and optimizing backend systems while integrating AI-driven solutions for real-world applications. Experience includes FastAPI, Node.js, Express.js, and SQL databases (PostgreSQL, SQL Server) to develop scalable, high-performance APIs. Skilled in containerization (Docker), version control (Git), and cloud deployments, ensuring efficiency and maintainability across projects.
+
+    AI-Powered APIs & Intelligent Systems
+    Responsible for designing and implementing APIs that leverage AI technologies, including RAG pipelines and AI Agents, to generate intelligent, context-aware responses. Work involves optimizing retrieval techniques, fine-tuning models, and improving response generation for AI-powered applications.
+
+    AI Research & Consulting
+    Serving as the lead AI consultant and researcher, contributing to the company's AI strategy, model selection, and implementation of advanced techniques. Focused on refining AI architectures, optimizing inference pipelines, and ensuring seamless AI integration into backend systems.
+
+    Committed to continuous learning and problem-solving, with a strong focus on bridging backend engineering and AI to develop solutions that are both efficient and impactful.
+    Empower your students with AI-driven innovation by integrating hands-on AI projects into your school's IT curriculum. Our EAD Kids Incubator partners with schools to enhance IT lessons with real-world AI applications, STEM innovation, and future-ready skills.
+    I am building the backend for the EAD Kids Incubator project, which is a project of Technogroup.ai
+
+(summarize this into one meaningful paragraph)
+Freelance Work:
+    As an AI-focused freelancer, I specialize in developing intelligent solutions using AI technologies. My expertise lies in LLMs, AI Agents, RAG pipelines, and automation, enabling businesses to leverage AI for smarter decision-making, process optimization, and enhanced user experiences.
+
+    🔹 Custom AI Solutions & Generative AI Integration
+    I design and implement AI-driven systems using LangChain, LlamaIndex, Hugging Face, and Haystack, optimizing LLM-powered workflows, retrieval-augmented generation (RAG) pipelines, and AI Agents for knowledge retrieval, automated content generation, and intelligent decision-making.
+
+    🔹 AI-Powered Automation & Backend Development
+    I build scalable AI-driven applications with backend frameworks like FastAPI, Node.js, and Express.js, integrating LLMs for automated workflows, intelligent chatbots, and AI-enhanced APIs that deliver context-aware responses and seamless automation.
+
+    🔹 AI Research & Model Optimization
+    Beyond implementation, I focus on fine-tuning, optimizing, and researching foundation models, ensuring efficient inference, low-latency response times, and improved accuracy for AI-driven applications. My work includes prompt engineering, model evaluation, and retrieval optimization to enhance performance.
+
+    🔹 Data Scraping & AI-Driven Data Analysis
+    Leveraging tools like Scrapy, Beautiful Soup, Seaborn, Matplotlib, Fireduck, and Pandas, I automate data extraction, processing, and analysis, integrating AI to uncover patterns, generate insights, and enhance data-driven decision-making.
+
+    I am committed to staying at the forefront of AI advancements, continuously refining my skills, and delivering AI solutions that bring efficiency, intelligence, and scalability to businesses.
+
+    Let’s collaborate to turn AI into a powerful tool for your success! 🚀
+
+
+(Getting more Certs I wil add image of each in the proper location)
+Certifications:
+    Licenses & certifications
+    freeCodeCamp logo
+    Data Analysis with Python
+    Data Analysis with Python
+    freeCodeCampfreeCodeCamp
+    Issued Nov 2024Issued Nov 2024
+    Credential ID code_panda-dawpCredential ID code_panda-dawp
+    Show credential
+    Skills: Data Analysis · Data Cleaning & Preparation · Data Visualization · Statistical Data Analysis · EDA · Python (Programming Language) · NumPy · Pandas (Software) · Seaborn · Matplotlib
+    Skills: Data Analysis · Data Cleaning & Preparation · Data Visualization · Statistical Data Analysis · EDA · Python (Programming Language) · NumPy · Pandas (Software) · Seaborn · Matplotlib
+    Data Seekho logo
+    Data SeekhoData Seekho
+    Issued Nov 2024Issued Nov 2024
+    Credential ID 5b5ff1a1-7e47-4e1e-898f-61eacc7e2665Credential ID 5b5ff1a1-7e47-4e1e-898f-61eacc7e2665
+    Show credential
+    Arfa Karim Technology Incubator logo
+    Generative AI
+    Arfa Karim Technology IncubatorArfa Karim Technology Incubator
+    Issued Nov 2024Issued Nov 2024
+    AKTI AI Cert.pdfAKTI AI Cert.pdf
+    ICT Trainings Institute logo
+    Python OOPs
+    Python OOPs
+    ICT Trainings InstituteICT Trainings Institute
+    Issued Apr 2024Issued Apr 2024
+    ICT Python certificate.pdf
+
+Education:
+    o Inter of Computer Science (I.C.S)
+    KIPS College, Lahore.
+    2024 – 2026
+    o Matriculation
+    KIPS School, Lahore.
+    2022 – 2024, 1120/1200
+
+Hobbies & Interests:
+I’m from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models—and sometimes even getting behind the models themselves (because curiosity is a tough habit to break 😆). When I’m not fixing bugs or building ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
+
+    Hi 👋, I'm Muhammad Abdullah
+    A passionate AI Engineer with a strong focus on Generative AI, backend development, and scalable solutions.
+    🙋‍♂️ About me
+    profile view count
+
+    I’m from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models—and sometimes even getting behind the models themselves (because curiosity is a tough habit to break 😆). When I’m not fixing bugs or building ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
+
+    🔭 I’m currently working as Backend and AI Engineer on EAD Project by Techno Group
+
+    🌱 I’m currently learning ML/DL, FM development and Backend Architectures
+
+    👨‍💻 All of my projects are available at https://www.linkedin.com/in/muhammad-abdullah-py-dev/
+
+    💬 Ask me about AI Consultations/Research, Generative AI, Python
+
+    📫 How to reach me my.abdullah.nauman@gmail.com
+
+    📄 Know about my experiences https://www.linkedin.com/in/muhammad-abdullah-py-dev/
+
+    ⚡ Fun fact I love hunting and traveling.
+
+Projects:
+    used the ones mentioned above and some I am providing below
+
+    AI Doc Chatbot
+    AI Doc Chatbot
+    Nov 2024 - Nov 2024Nov 2024 - Nov 2024
+    🚀 Document QA Bot: Streamlined Document Query Solution 📚
+
+    Proud to share my latest project, the Document QA Bot—a user-friendly tool designed to simplify document exploration. Built using Streamlit with Hugging Face embeddings and the Groq language model, this bot allows users to upload various document formats (PDF, DOCX, TXT) and interactively query document content. A unique highlight of this project is pymupdf4llm, which offers efficient PDF processing, enabling fast and precise text extraction. This ensures that users can quickly access accurate, contextually relevant answers from their documents, making knowledge retrieval seamless and efficient.
+
+    With pymupdf4llm and FAISS-backed embeddings, Document QA Bot provides a robust foundation for natural language querying, ideal for business or academic document analysis. This tool reflects my passion for building accessible AI-driven solutions that enhance productivity.
+    🚀 Document QA Bot: Streamlined Document Query Solution 📚 Proud to share my latest project, the Document QA Bot—a user-friendly tool designed to simplify document exploration. Built using Streamlit with Hugging Face embeddings and the Groq language model, this bot allows users to upload various document formats (PDF, DOCX, TXT) and interactively query document content. A unique highlight of this project is pymupdf4llm, which offers efficient PDF processing, enabling fast and precise text extraction. This ensures that users can quickly access accurate, contextually relevant answers from their documents, making knowledge retrieval seamless and efficient. With pymupdf4llm and FAISS-backed embeddings, Document QA Bot provides a robust foundation for natural language querying, ideal for business or academic document analysis. This tool reflects my passion for building accessible AI-driven solutions that enhance productivity.
+    Skills: Retrieval Augmented Generation (RAG) · Large Language Models (LLMs) · Document retrieval systems · Building AI chatbots · LlamaIndex · Groq · Vector Databases · embedding · Hugging Face ecosystem · Pymupdf4llm
+    Skills: Retrieval Augmented Generation (RAG) · Large Language Models (LLMs) · Document retrieval systems · Building AI chatbots · LlamaIndex · Groq · Vector Databases · embedding · Hugging Face ecosystem · Pymupdf4llm
+
+    Document QA BotDocument QA Bot
+    AI MCQ Generator v2
+    AI MCQ Generator v2
+    Oct 2024 - Oct 2024Oct 2024 - Oct 2024
+    The AI MCQ Generation System is a cutting-edge tool that generates Multiple Choice Questions (MCQs) from tech-related documents, including PDFs and Word files. Utilizing advanced AI models from Groq and Meta, the system analyzes document content to produce customizable MCQs, making it a valuable asset for learning, assessments, and educational purposes.
+
+    One of its standout features is support for both PDF and Word formats, ensuring flexibility in document submission. The system exclusively processes tech-related content, guaranteeing that generated questions are relevant. Users can select difficulty levels—Easy, Medium, or Hard—and generate between 5 to 30 questions, catering to various learning needs.
+
+    The AI integration includes models such as gemma2-9b-it, llama3-groq-70b-8192-tool-use-preview, and llama-3.1-70b-versatile, which enhance the accuracy and variety of the MCQs. The user-friendly Streamlit interface allows easy document uploads, settings customization, and live previews of the generated questions.
+
+    Additionally, users can export the MCQs as PDFs, making the system practical for offline study or formal assessments. This project leverages tools like LangChain, Hugging Face Embeddings, and FAISS to provide an efficient solution for creating MCQs from tech-related documents. It’s ideal for educators, students, and organizations seeking an automated, AI-powered approach to question generation.
+
+    This project has significantly contributed to my growth as an AI and Python developer. Using tools like LangChain and Hugging Face has deepened my understanding of Generative AI, sharpening my skills and fueling my passion for innovative solutions. I look forward to applying these learnings to future projects as I continue to evolve in this field.
+    The AI MCQ Generation System is a cutting-edge tool that generates Multiple Choice Questions (MCQs) from tech-related documents, including PDFs and Word files. Utilizing advanced AI models from Groq and Meta, the system analyzes document content to produce customizable MCQs, making it a valuable asset for learning, assessments, and educational purposes. One of its standout features is support for both PDF and Word formats, ensuring flexibility in document submission. The system exclusively processes tech-related content, guaranteeing that generated questions are relevant. Users can select difficulty levels—Easy, Medium, or Hard—and generate between 5 to 30 questions, catering to various learning needs. The AI integration includes models such as gemma2-9b-it, llama3-groq-70b-8192-tool-use-preview, and llama-3.1-70b-versatile, which enhance the accuracy and variety of the MCQs. The user-friendly Streamlit interface allows easy document uploads, settings customization, and live previews of the generated questions. Additionally, users can export the MCQs as PDFs, making the system practical for offline study or formal assessments. This project leverages tools like LangChain, Hugging Face Embeddings, and FAISS to provide an efficient solution for creating MCQs from tech-related documents. It’s ideal for educators, students, and organizations seeking an automated, AI-powered approach to question generation. This project has significantly contributed to my growth as an AI and Python developer. Using tools like LangChain and Hugging Face has deepened my understanding of Generative AI, sharpening my skills and fueling my passion for innovative solutions. I look forward to applying these learnings to future projects as I continue to evolve in this field.
+    Skills: Groq · Retrieval Augmented Generation (RAG) · Document retrieval systems · Large Language Models (LLMs) · AI agent development · LangChain framework · Retrieval-Augmented Generation (RAG) · streamlit · Generative AI · API integration · System Deployment · Vector Databases · Building AI chatbots · Automation · Engineering Documentation · Generative AI fundamentals
+
+
+Contact Info:
+    my.abdullah.nauman@gmail.com
+    Location
+    Based in
+    Lahore, Pakistan
