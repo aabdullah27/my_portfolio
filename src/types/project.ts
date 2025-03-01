@@ -5,6 +5,7 @@ export interface Project {
   technologies: string[];
   category: string;
   image: string;
+  date?: string;
   links: {
     github?: string;
     live?: string;
