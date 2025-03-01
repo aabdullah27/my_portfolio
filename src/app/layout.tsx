@@ -6,7 +6,12 @@ import { Navbar } from "@/components/layout/navbar";
 import { Footer } from "@/components/layout/footer";
 import StructuredData from "@/components/structured-data";
 
-const inter = Inter({ subsets: ["latin"] });
+// Use Inter with expanded subsets for better language support
+const inter = Inter({ 
+  subsets: ["latin"],
+  display: 'swap',
+  variable: '--font-inter',
+});
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -20,8 +25,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Bjorn Melin",
-    default: "Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect",
+    template: "%s | Abdullah",
+    default: "Abdullah - Senior Data Scientist & Cloud Solutions Architect",
   },
   description:
     "Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, cloud architecture, and modern development.",
@@ -31,18 +36,18 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect',
+    title: 'Abdullah - Senior Data Scientist & Cloud Solutions Architect',
     description: 'Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, cloud architecture, and modern development.',
     images: [{
       url: '/screenshots/hero-preview.png',
       width: 1200,
       height: 630,
-      alt: 'Bjorn Melin - Portfolio Hero Section'
+      alt: 'Abdullah - Portfolio Hero Section'
     }]
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bjorn Melin - Senior Data Scientist & Cloud Solutions Architect',
+    title: 'Abdullah - Senior Data Scientist & Cloud Solutions Architect',
     description: 'Senior Data Scientist and Cloud Solutions Architect specializing in AI/ML, GenAI innovation, cloud architecture, and modern development.',
     images: ['/screenshots/hero-preview.png']
   },
@@ -89,8 +94,8 @@ export const metadata: Metadata = {
     "Full-Stack Development",
     "Cloud Computing",
   ],
-  authors: [{ name: "Bjorn Melin" }],
-  creator: "Bjorn Melin",
+  authors: [{ name: "Abdullah" }],
+  creator: "Abdullah",
 };
 
 export default function RootLayout({
@@ -99,12 +104,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      <body className={inter.className}>
+    <html lang="en" suppressHydrationWarning className={inter.variable}>
+      <body className={`${inter.className} antialiased`}>
         <Providers>
           <div className="relative min-h-screen flex flex-col">
             <Navbar />
-            <main className="flex-grow container mx-auto px-4 pt-16 pb-8">
+            <main className="flex-grow">
               {children}
             </main>
             <Footer />
